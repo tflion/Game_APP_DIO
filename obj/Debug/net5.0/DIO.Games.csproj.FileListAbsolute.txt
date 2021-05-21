@@ -1,0 +1,16 @@
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Projeto_1_DIO\DIO.Games\bin\Debug\net5.0\DIO.Games.exe
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Projeto_1_DIO\DIO.Games\bin\Debug\net5.0\DIO.Games.deps.json
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Projeto_1_DIO\DIO.Games\bin\Debug\net5.0\DIO.Games.runtimeconfig.json
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Projeto_1_DIO\DIO.Games\bin\Debug\net5.0\DIO.Games.runtimeconfig.dev.json
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Projeto_1_DIO\DIO.Games\bin\Debug\net5.0\DIO.Games.dll
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Projeto_1_DIO\DIO.Games\bin\Debug\net5.0\ref\DIO.Games.dll
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Projeto_1_DIO\DIO.Games\bin\Debug\net5.0\DIO.Games.pdb
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Projeto_1_DIO\DIO.Games\obj\Debug\net5.0\DIO.Games.csprojAssemblyReference.cache
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Projeto_1_DIO\DIO.Games\obj\Debug\net5.0\DIO.Games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Projeto_1_DIO\DIO.Games\obj\Debug\net5.0\DIO.Games.AssemblyInfoInputs.cache
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Projeto_1_DIO\DIO.Games\obj\Debug\net5.0\DIO.Games.AssemblyInfo.cs
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Projeto_1_DIO\DIO.Games\obj\Debug\net5.0\DIO.Games.csproj.CoreCompileInputs.cache
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Projeto_1_DIO\DIO.Games\obj\Debug\net5.0\DIO.Games.dll
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Projeto_1_DIO\DIO.Games\obj\Debug\net5.0\ref\DIO.Games.dll
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Projeto_1_DIO\DIO.Games\obj\Debug\net5.0\DIO.Games.pdb
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Projeto_1_DIO\DIO.Games\obj\Debug\net5.0\DIO.Games.genruntimeconfig.cache
